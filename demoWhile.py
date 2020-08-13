@@ -45,3 +45,5 @@ print(strFormat.format(i, j, p))
 print("\n".join(["\t".join(["{}*{}={}".format(j, i, i * j) for j in range(1, 1 + i)]) for i in range(1, 10)]))
 
 print("\n".join(["\t".join(["{}*{}={}".format(j, i, i * j) for j in range(1, 1 + i)]) for i in range(1, 10)]))
+
+import numpy

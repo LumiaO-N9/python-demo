@@ -8,3 +8,8 @@ def fun4(s):
 
 def fun5(s):
     print(s)
+
+
+import pandas as pd
+
+pd.read_csv()
